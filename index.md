@@ -1,10 +1,10 @@
-Johnny Coder
+Kalyan Pedalanka
 ============
 
 -------------------     ----------------------------
 1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+MyTown 1000                          Repalle
+MyCountry                           India
 -------------------     ----------------------------
 
 Education
